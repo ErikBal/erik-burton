@@ -79,89 +79,87 @@
 					</nav>
 				</div>
 			</section>
-			</header>
-			<main>
-				<section>
-					<div>
-					</div>
-					<nav>
-						<ul>
-							<li>
-							</li>
-							<li>
-							</li>
-							<li>
-							</li>
-						</ul>
-					</nav>
-				</section>
-			</main>
-			<section>
+		</header>
+		<main>
+			<section id="main">
 				<div>
 				</div>
-				<div>
-				</div>
-			</section>
-			<section>
-				<div>
-				</div>
-			</section>
-			<section>
 				<nav>
 					<ul>
 						<li>
 						</li>
+						<li>
+						</li>
+						<li>
+						</li>
 					</ul>
 				</nav>
-			</section>
-			<section>
 				<div>
-					
+				</div>
+				<div>
 				</div>
 			</section>
-			<footer>
-				<div>
-					<section>
-						<article>
-						</article>
+		</main>
+		<section id="secondary">
+			<div>
+			</div>
+		</section>
+		<section>
+			<nav>
+				<ul>
+					<li>
+					</li>
+				</ul>
+			</nav>
+		</section>
+		<section id="third">
+			<div>
+					
+			</div>
+		</section>
+		<footer>
+			<div>
+				<section>
+					<article>
+					</article>
+					<nav>
+						<ul>
+							<li>
+										
+							</li>
+							<li>
+									
+							</li>
+							<li>
+									
+							</li>
+							<li>
+										
+							</li>
+						</ul>
+					</nav>
+					<div>
 						<nav>
 							<ul>
 								<li>
-									
+
 								</li>
 								<li>
-									
+
 								</li>
 								<li>
-									
-								</li>
-								<li>
-									
+											
 								</li>
 							</ul>
 						</nav>
-						<div>
-							<nav>
-								<ul>
-									<li>
-
-									</li>
-									<li>
-
-									</li>
-									<li>
-										
-									</li>
-								</ul>
-							</nav>
-						</div>
-					</section>
-					<section>
-					</section>
-					<section>
-					</section>
-					<section>
-				</div>
-			</footer>
-		</body>
+					</div>
+				</section>
+				<section>
+				</section>
+				<section>
+				</section>
+				<section>
+			</div>
+		</footer>
+	</body>
 </html>
