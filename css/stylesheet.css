@@ -47,6 +47,7 @@ header #top #wrap nav ul li a{
 
 header #bottom{
 	width: 100%;
+	height: 60px;
 }
 
 header #bottom #wrap2{
@@ -126,16 +127,22 @@ header #bottom #wrap2 nav ul li a{
 }
 
 main{
-
+	height: auto;
+	width: 100%;
+	margin-top: 20px;
 }
 
 main #top{
+	background-color: #F0F0E8;
 
 }
 
 main #top div{
-	background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');
+	/*background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');*/
 	background-repeat: no-repeat;
 	height: auto;
 	width: auto;
+	padding-left: 15%;
+	padding-top: 30px;
+
 }

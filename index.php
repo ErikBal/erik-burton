@@ -83,7 +83,7 @@
 			</section>
 		</header>
 		<main>
-			<section id="main">
+			<section id="top">
 				<div>
 					<img src="//akamai-ssl.burton.com/2015/content/homepage/slides/Homepage_S15_Shred_Sale_Desktop.jpg">
 				</div>
