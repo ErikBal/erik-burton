@@ -146,27 +146,38 @@
 		</section>
 		<section id="fifth">
 			<div>
-				
+
 			</div>
 		</section>
 		<footer>
 			<div>
+				<h1>
+				</h1>
 				<section>
 					<article>
+						<h4>US Headquarters</h4>
+						80 Industrial Parkway<br />
+						Burlington, VT 05401<br />
+						<br />
+						<h4>Rider Service</h4>
+						(800) 881-3138
 					</article>
 					<nav>
+						<h4>
+							Orders / Returns
+						</h4>
 						<ul>
 							<li>
-										
+								<a href="#">Check Order Status</a>	
 							</li>
 							<li>
-									
+								<a href="#">Shipping & Delivery</a>	
 							</li>
 							<li>
-									
+								<a href="#">Return Policy</a>		
 							</li>
 							<li>
-										
+								<a href="#">Gift Cards</a>			
 							</li>
 						</ul>
 					</nav>
@@ -190,7 +201,6 @@
 				</section>
 				<section>
 				</section>
-				<section>
 			</div>
 		</footer>
 	</body>

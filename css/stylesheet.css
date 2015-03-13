@@ -43,7 +43,18 @@ header #top #wrap nav ul li img{
 
 header #top #wrap nav ul li a{
 	text-decoration: none;
-	color: #F0F0E8;
+	color: #D0D0D0;
+}
+
+header #top #wrap div{
+
+}
+
+header #top #wrap div p{
+	text-align: right;
+	padding-top: 5px;
+	font-size: 12px;
+	color: #D0D0D0;
 }
 
 header #bottom{
@@ -304,6 +315,68 @@ main #top nav ul .right{
 footer{
 	background-image: url('http://akamai-ssl.burton.com/2015/images/global/ss15_footerBackground.gif');
 	height: 445px;
+}
+
+footer div{
+	width: 990px;
+	height: 90%;
+	margin: auto;
+	padding-top: 35px;
+}
+
+footer div h1{
+	background-image: url(http://akamai-ssl.burton.com/2015/images/global/svg/global-header-footer-sprite-ss15.svg);
+	background-position-x: 0px;
+	background-position-y: -70px;
+	background-size: initial;
+	background-repeat-x: no-repeat;
+	background-repeat-y: no-repeat;
+	background-attachment: initial;
+	background-origin: initial;
+	background-clip: initial;
+	background-color: rgb(51, 49, 50);
+	height: 19px;
+	width: 111px;
+	text-indent: -99999px;
+	margin-bottom: 26px;
+}
+
+footer div section{
+	width: 50%;
+	float: left;
+}
+
+footer div section article{
+	width: 50%; 
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+footer div section article h4{
+	margin: 0;
+	line-height: 30px;
+}
+
+footer div section nav{
+	float: left;
+	margin: 0;
+}
+footer div section nav h4{
+	margin: 0;
+}
+footer div section nav ul{
+	padding: 0;
+	margin: 0;
+}
+
+footer div section nav ul li{
+	list-style: none;
+}
+
+footer div section nav ul li a{
+	text-decoration: none;
+	color: #000000;
 }
 /*background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');*/
 	background-repeat: no-repeat;
