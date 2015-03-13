@@ -180,24 +180,22 @@
 								<a href="#">Gift Cards</a>			
 							</li>
 						</ul>
-					</nav>
-					<div>
+					</nav>	
+				</section>
+				<section>
 						<nav>
 							<ul>
 								<li>
-
+									<a href="#">Customer Service</a>
 								</li>
 								<li>
-
+									<a href="#">About Us</a>
 								</li>
 								<li>
-											
+									<a href="#">Get Involved</a>	
 								</li>
 							</ul>
 						</nav>
-					</div>
-				</section>
-				<section>
 				</section>
 				<section>
 				</section>

@@ -182,6 +182,7 @@ main #top nav ul .left{
     border-width: 3px;
     text-align: center;
     font-size: 12px;
+    border-spacing: 2rem;
    	
 
 }
@@ -318,7 +319,7 @@ footer{
 }
 
 footer div{
-	width: 990px;
+	width: 1000px;
 	height: 90%;
 	margin: auto;
 	padding-top: 35px;
@@ -331,14 +332,10 @@ footer div h1{
 	background-size: initial;
 	background-repeat-x: no-repeat;
 	background-repeat-y: no-repeat;
-	background-attachment: initial;
-	background-origin: initial;
-	background-clip: initial;
 	background-color: rgb(51, 49, 50);
 	height: 19px;
 	width: 111px;
-	text-indent: -99999px;
-	margin-bottom: 26px;
+	margin: 20px 0 20px 0;
 }
 
 footer div section{
@@ -351,11 +348,13 @@ footer div section article{
 	margin: 0;
 	padding: 0;
 	float: left;
+	color: #ffffff;
 }
 
 footer div section article h4{
 	margin: 0;
 	line-height: 30px;
+	color: #ffffff;
 }
 
 footer div section nav{
@@ -363,7 +362,8 @@ footer div section nav{
 	margin: 0;
 }
 footer div section nav h4{
-	margin: 0;
+	margin: 5px 0 0 0;
+	color: #ffffff;
 }
 footer div section nav ul{
 	padding: 0;
@@ -376,7 +376,47 @@ footer div section nav ul li{
 
 footer div section nav ul li a{
 	text-decoration: none;
-	color: #000000;
+	color: #ffffff;
 }
-/*background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');*/
-	background-repeat: no-repeat;
+
+footer div section + section{
+	float: left;
+	width: 50%
+}
+
+footer div section + section nav{
+	margin: 10px 0 0 0;
+}
+
+footer div section + section nav ul{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 50px;
+}
+
+
+footer div section + section nav ul li{
+	float: left;
+	border-style: solid;
+	height: 30px;
+	width: 145px;
+	border-color: #ffffff;
+	border-width: 1px;
+	margin-right: 25px;
+}
+
+footer div section + section nav ul li + li{
+	margin-right: 25px;
+}
+
+footer div section + section nav ul li + li + li{
+	margin-right: 0;
+}
+
+footer div section + section nav ul li a{
+	margin: 10px;
+	vertical-align: -20px;
+	font-size: 13px;
+	color: #ffffff;
+}
