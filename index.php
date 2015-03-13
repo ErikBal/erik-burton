@@ -12,7 +12,7 @@
 								<img src="//akamai-ssl.burton.com/2015/images/flags/Burton_US-default.gif">
 							</li>
 							<li>
-								<a href="#">My Account *</a>   
+								<a href="#">My Account * </a>   
 							</li>
 							<li>
 								<a href="#">Stores</a>  
@@ -111,16 +111,34 @@
 			</div>
 		</section>
 		<section id="third">
-		<section>
-			<nav>
-				<ul>
-					<li>
-					</li>
-				</ul>
-			</nav>
-		</section>
 			<div>
-					
+				<img src="http://akamai-ssl.burton.com/2015/content/13things/post-037/design/B_Post37_Image.png">
+			</div>
+		</section>
+		<section id="forth">
+			<div>
+				<nav>
+					<ul>
+						<li>
+							<img src="">
+						</li>
+						<li>
+							<img src="">
+						</li>
+						<li>
+							<img src="">
+						</li>
+						<li>
+							<img src="">
+						</li>
+						<li>
+							<img src="">
+						</li>
+						<li>
+							<img src="">
+						</li>
+					</ul>
+				</nav>
 			</div>
 		</section>
 		<footer>

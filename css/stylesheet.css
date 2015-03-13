@@ -34,6 +34,7 @@ header #top #wrap nav ul li{
 	margin-right: 10px;
 	margin-top: 5px;
 	list-style: none;
+
 }
 
 header #top #wrap nav ul li img{
@@ -42,7 +43,7 @@ header #top #wrap nav ul li img{
 
 header #top #wrap nav ul li a{
 	text-decoration: none;
-	color: #000000;
+	color: #F0F0E8;
 }
 
 header #bottom{
@@ -65,7 +66,7 @@ header #bottom #wrap2 nav ul{
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	margin-top: 40px;
+	padding-top: 40px;
 }
 
 header #bottom #wrap2 nav ul li{
@@ -112,7 +113,7 @@ header #bottom #wrap2 nav ul{
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	margin-top: 40px;
+	padding-top: 40px;
 }
 
 header #bottom #wrap2 nav ul li{
@@ -136,7 +137,6 @@ main{
 }
 
 main #top{
-	
 	width: 990px;
 	margin-right: auto;
 	margin-left: auto;
@@ -152,12 +152,15 @@ main #top div{
 
 main #top nav{
 	width: 100%;
+	height: auto;
+
 }
 
 main #top nav ul{
 	width: 100%;
 	height: auto;
-	padding: 0;
+	margin: 0;
+	padding: 20px 0 0 0;
 }
 
 main #top nav ul .left{
@@ -165,7 +168,7 @@ main #top nav ul .left{
 	float: left;
 	width: 300px;
 	border-style: solid;
-    border-width: 1.5px;
+    border-width: 3px;
     text-align: center;
     font-size: 12px;
    	
@@ -176,11 +179,11 @@ main #top nav ul .center{
 	list-style: none;
 	width: 300px;
 	border-style: solid;
-    border-width: 1.5px;
+    border-width: 3px;
     text-align: center;
     font-size: 12px;
-    margin-left: 42px;
-    margin-right: 42px;
+    margin-left: 35.5px;
+    margin-right: 35.5px;
     float: left;
 }
 
@@ -190,7 +193,7 @@ main #top nav ul .right{
 	float: left;
 	width: 300px;
 	border-style: solid;
-    border-width: 1.5px;
+    border-width: 3px;
     text-align: center;
     font-size: 12px;
     margin: 0;
@@ -200,13 +203,17 @@ main #top nav ul .right{
 
 #secondary{
 	width: 100%;
+	background-color: #F0F0E8;
+	height: auto;
 }
 
 #secondary div{
 	width: 990px;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 60px;
+	padding-top: 60px;
+	padding-bottom: 15px;
+	background-color: #F0F0E8;
 }
 
 #secondary div .left{
@@ -214,9 +221,22 @@ main #top nav ul .right{
 }
 
 
+#third div{
+	background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 1423px;
+	height: 404px;
+	background-position: center 0;
+}
 
-
-
+#third div img{
+	vertical-align: middle;
+	display: block;
+	margin: 0 auto 0;
+	max-height: 370px;
+	padding-top: 18px;
+}
 
 
 
