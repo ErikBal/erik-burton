@@ -89,37 +89,28 @@
 				</div>
 				<nav>
 					<ul>
-						<li>
+						<li class="left">
 							THE ADVENTURE STARTS HERE
 						</li>
-						<li>
+						<li class="center">
 							SPRING RIDING – GEAR UP
 						</li>
-						<li>
+						<li class="right">
 							HOOK YOURSELF UP
 						</li>
 					</ul>
 				</nav>
-				<figure>
-					<div>
-						<img src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Mens_Softshell.jpg">
-						<img class="hover" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Mens_Softshell_hover.jpg">
-					</div>
-				</figure>
-				<div>
-					<figure>
-					<div>
-						<img src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Womens_Shirts_hover.jpg">
-						<img class="hover" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Womens_Shirts.jpg">
-					</div>
-				</figure>
-				</div>
 			</section>
 		</main>
 		<section id="secondary">
-			<div>
+			<div>	
+				<img class="left" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Mens_Softshell.jpg">
+						<!--<img class="hover" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Mens_Softshell_hover.jpg">-->
+						<!--<img class="hover" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Womens_Shirts_hover.jpg">-->
+				<img class="right" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Womens_Shirts.jpg">				
 			</div>
 		</section>
+		<section id="third">
 		<section>
 			<nav>
 				<ul>
@@ -128,7 +119,6 @@
 				</ul>
 			</nav>
 		</section>
-		<section id="third">
 			<div>
 					
 			</div>

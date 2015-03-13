@@ -89,8 +89,8 @@ header #bottom #wrap2 div{
 }
 
 header #bottom #wrap2 div a{
-	margin-top: 25%;
-	margin-left: 25%;
+	margin: 0;
+
 }
 
 header #bottom #wrap2 div a span{
@@ -98,9 +98,11 @@ header #bottom #wrap2 div a span{
 	width: 145px;
 	height: 26px;
 	display: block;
-	background-position: 0 0;
-	
+	margin-left: 28%;
+	margin-top: 8%;
 }
+
+
 header #bottom #wrap2 nav{
 	width: 33.2%;
 	float:  left;
@@ -130,19 +132,95 @@ main{
 	height: auto;
 	width: 100%;
 	margin-top: 20px;
+	background-color: #F0F0E8;
 }
 
 main #top{
-	background-color: #F0F0E8;
-
+	
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 main #top div{
-	/*background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');*/
-	background-repeat: no-repeat;
 	height: auto;
 	width: auto;
-	padding-left: 15%;
 	padding-top: 30px;
 
 }
+
+
+main #top nav{
+	width: 100%;
+}
+
+main #top nav ul{
+	width: 100%;
+	height: auto;
+	padding: 0;
+}
+
+main #top nav ul .left{
+	list-style: none;
+	float: left;
+	width: 300px;
+	border-style: solid;
+    border-width: 1.5px;
+    text-align: center;
+    font-size: 12px;
+   	
+
+}
+
+main #top nav ul .center{
+	list-style: none;
+	width: 300px;
+	border-style: solid;
+    border-width: 1.5px;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 42px;
+    margin-right: 42px;
+    float: left;
+}
+
+
+main #top nav ul .right{
+	list-style: none;
+	float: left;
+	width: 300px;
+	border-style: solid;
+    border-width: 1.5px;
+    text-align: center;
+    font-size: 12px;
+    margin: 0;
+  
+}
+
+
+#secondary{
+	width: 100%;
+}
+
+#secondary div{
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+}
+
+#secondary div .left{
+	margin-right: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+/*background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');*/
+	background-repeat: no-repeat;
