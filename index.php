@@ -198,6 +198,20 @@
 						</nav>
 				</section>
 				<section>
+					<div>
+						<h3>
+							Email Sign Up
+						</h3>
+						<input type="text" name="emailpre" value="Sign Up for Updates &amp; Offers">
+						<button type="submit">Go</button>	
+					</div>
+					<div>
+						<h3>
+							Find A Store
+						</h3>
+						<input type="text" name="emailpre" value="Enter City, State or Zip">
+						<button type="submit">Go</button>
+					</div>
 				</section>
 			</div>
 		</footer>

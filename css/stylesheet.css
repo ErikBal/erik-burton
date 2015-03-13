@@ -420,3 +420,53 @@ footer div section + section nav ul li a{
 	font-size: 13px;
 	color: #ffffff;
 }
+
+
+footer div section + section + section{
+
+}
+
+footer div section + section + section div{
+	width: 50%;
+	float: left;
+}
+
+footer div section + section + section div h3{
+	margin: 0;
+	color: #ffffff;
+}
+
+footer div section + section + section div input{
+	letter-spacing: .03em;
+	height: 30px;
+	background-color: #efefef;
+	border-top: transparent;
+	border-left: transparent;
+	border-right: 1px solid #efefef;
+	border-bottom: transparent;
+	width: 180px;
+	float: left;
+}
+
+
+footer div section + section + section div button{
+	display: block;
+	position: relative;
+	z-index: 2;
+	text-align: center;
+	width: 40px;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	font-size: 14px;
+	height: 2.195em;
+	float: left;
+	background-color: #efefef;
+}
+
+footer div section + section + section div + div{
+	width: 50%;
+	float: left;
+}
