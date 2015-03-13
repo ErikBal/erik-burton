@@ -55,7 +55,9 @@
 					</nav>
 					<div>
 						<a href="#">
-							<span></span>
+							<span> 
+								
+							</span>
 						</a>		
 					</div>
 					<nav>
@@ -83,20 +85,34 @@
 		<main>
 			<section id="main">
 				<div>
+					<img src="//akamai-ssl.burton.com/2015/content/homepage/slides/Homepage_S15_Shred_Sale_Desktop.jpg">
 				</div>
 				<nav>
 					<ul>
 						<li>
+							THE ADVENTURE STARTS HERE
 						</li>
 						<li>
+							SPRING RIDING – GEAR UP
 						</li>
 						<li>
+							HOOK YOURSELF UP
 						</li>
 					</ul>
 				</nav>
+				<figure>
+					<div>
+						<img src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Mens_Softshell.jpg">
+						<img class="hover" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Mens_Softshell_hover.jpg">
+					</div>
+				</figure>
 				<div>
-				</div>
-				<div>
+					<figure>
+					<div>
+						<img src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Womens_Shirts_hover.jpg">
+						<img class="hover" src="http://akamai-ssl.burton.com/2015/content/homepage/assets/SS15_Secondary_Womens_Shirts.jpg">
+					</div>
+				</figure>
 				</div>
 			</section>
 		</main>
