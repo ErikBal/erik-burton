@@ -41,12 +41,12 @@ header #top #wrap nav ul li img{
 }
 
 header #top #wrap nav ul li a{
-	 text-decoration: none;
-	 color: #000000;
+	text-decoration: none;
+	color: #000000;
 }
 
 header #bottom{
-
+	width: 100%;
 }
 
 header #bottom #wrap2{
@@ -61,30 +61,35 @@ header #bottom #wrap2 nav{
 }
 
 header #bottom #wrap2 nav ul{
-	
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	margin-top: 40px;
 }
 
 header #bottom #wrap2 nav ul li{
 	float: left;
-	margin-right: 10px;
-	margin-top: 5px;
 	list-style: none;
-	float: left;
+	margin-right: 15px;
 }
 
 header #bottom #wrap2 nav ul li a{
 	float: left;
+	text-decoration: none;
+	color: #000000;
+	font-size: 11px;
 }
 
 header #bottom #wrap2 div{
-	height: 100px;
 	width: 33.3%;
 	margin-right: auto;
 	margin-left: auto;
+	float: left;
 }
 
 header #bottom #wrap2 div a{
-	
+	margin-top: 25%;
+	margin-left: 25%;
 }
 
 header #bottom #wrap2 div a span{
@@ -92,23 +97,32 @@ header #bottom #wrap2 div a span{
 	width: 145px;
 	height: 26px;
 	display: block;
-	margin: 0;
+	background-position: 0 0;
+	
 }
 header #bottom #wrap2 nav{
-	width: 33.3%;
+	width: 33.2%;
 	float:  left;
 }
 
 header #bottom #wrap2 nav ul{
-	
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	margin-top: 40px;
 }
 
 header #bottom #wrap2 nav ul li{
 	float: left;
+	list-style: none;
+	margin-right: 18px;
 }
 
 header #bottom #wrap2 nav ul li a{
-
+	float: left;
+	text-decoration: none;
+	color: #000000;
+	font-size: 11px;
 }
 
 main{
