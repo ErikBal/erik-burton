@@ -239,8 +239,51 @@ main #top nav ul .right{
 }
 
 
+#forth{
+	width: 100%;
+	height: 283px;
+}
+
+#forth div{
+	width: 990px;
+	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#forth div nav{
+	height: 100%;
+}
 
 
+#forth div nav h1{
+	text-align: center;
+	padding-top: 25px;
+}
+
+
+#forth div nav ul{
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#forth div nav ul li{
+	height: 150px;
+	width: 15%;
+	list-style: none;
+	float: left;
+	border-style: solid;
+	margin: 5px;
+}
+
+#forth div nav ul li img{
+	position: relative;
+	display: block;
+	max-height: 95.7%;
+	max-width: 95.7%;
+	margin: auto;
+}
 
 /*background-image: url('http://akamai-ssl.burton.com/2015/content/13things/post-037/design/13Things_DefineDurableGoods_Banner_Desktop.jpg');*/
 	background-repeat: no-repeat;
