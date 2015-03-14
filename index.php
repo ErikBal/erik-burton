@@ -62,7 +62,7 @@
 					</div>
 					<nav>
 						<div>
-
+							<input type="text">
 						</div>
 						<ul>
 							<li>
@@ -78,8 +78,7 @@
 								<a href="#">ABOUT US</a>
 							</li>
 						</ul>
-					</nav>
-				</div>
+					</nav>				
 			</section>
 		</header>
 		<main>
@@ -215,13 +214,11 @@
 				</section>
 				<section>
 					<div>
-retreter
 					</div>
 					<div>
 						© 2015 Burton Snowboards / Terms & Conditions / Contact Us / Site Map
 					</div>
-					<div>
-						tertwerte
+					<div>			
 					</div>
 				</section>
 			</div>

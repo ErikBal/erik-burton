@@ -91,6 +91,7 @@ header #bottom #wrap2 nav ul li a{
 	text-decoration: none;
 	color: #000000;
 	font-size: 11px;
+
 }
 
 header #bottom #wrap2 div{
@@ -118,6 +119,26 @@ header #bottom #wrap2 div a span{
 header #bottom #wrap2 nav{
 	width: 33.2%;
 	float:  left;
+}
+
+header #bottom #wrap2 nav div{
+	float: right;
+	padding-right: 70px;
+	padding-top: 3px;
+
+}
+
+header #bottom #wrap2 nav div input{
+	border-radius: 0;
+	border-top: 0;
+	border-right: 0;
+	border-left: none;
+	border-bottom: 1px solid #333;
+	width: 158px;
+	height: 25px;
+	float: right;
+	padding: 0 5px;
+	font-size: 1em;
 }
 
 header #bottom #wrap2 nav ul{
