@@ -62,31 +62,31 @@ header #bottom{
 	height: 60px;
 }
 
-header #bottom #wrap2{
+header #bottom div{
 	width: 990px;
 	margin-right: auto;
 	margin-left: auto;
 }
 
-header #bottom #wrap2 nav{
+header #bottom div nav{
 	width: 33.3%;
 	float: left;
 }
 
-header #bottom #wrap2 nav ul{
+header #bottom div nav ul{
 	width: 100%;
 	padding: 0;
 	margin: 0;
 	padding-top: 40px;
 }
 
-header #bottom #wrap2 nav ul li{
+header #bottom div nav ul li{
 	float: left;
 	list-style: none;
 	margin-right: 15px;
 }
 
-header #bottom #wrap2 nav ul li a{
+header #bottom div nav ul li a{
 	float: left;
 	text-decoration: none;
 	color: #000000;
@@ -94,19 +94,19 @@ header #bottom #wrap2 nav ul li a{
 
 }
 
-header #bottom #wrap2 div{
+header #bottom div div{
 	width: 33.3%;
 	margin-right: auto;
 	margin-left: auto;
 	float: left;
 }
 
-header #bottom #wrap2 div a{
+header #bottom div div a{
 	margin: 0;
 
 }
 
-header #bottom #wrap2 div a span{
+header #bottom div div a span{
 	background-image: url('http://akamai-ssl.burton.com/2015/images/global/svg/global-header-footer-sprite-ss15.svg');
 	width: 145px;
 	height: 26px;
@@ -116,19 +116,19 @@ header #bottom #wrap2 div a span{
 }
 
 
-header #bottom #wrap2 nav{
+header #bottom div nav{
 	width: 33.2%;
 	float:  left;
 }
 
-header #bottom #wrap2 nav div{
+header #bottom div nav div{
 	float: right;
 	padding-right: 70px;
 	padding-top: 3px;
 
 }
 
-header #bottom #wrap2 nav div input{
+header #bottom div nav div input{
 	border-radius: 0;
 	border-top: 0;
 	border-right: 0;
@@ -141,20 +141,20 @@ header #bottom #wrap2 nav div input{
 	font-size: 1em;
 }
 
-header #bottom #wrap2 nav ul{
+header #bottom div nav ul{
 	width: 100%;
 	padding: 0;
 	margin: 0;
 	padding-top: 40px;
 }
 
-header #bottom #wrap2 nav ul li{
+header #bottom div nav ul li{
 	float: left;
 	list-style: none;
 	margin-right: 18px;
 }
 
-header #bottom #wrap2 nav ul li a{
+header #bottom div nav ul li a{
 	float: left;
 	text-decoration: none;
 	color: #000000;

@@ -30,7 +30,7 @@
 				</div>
 			</section>
 			<section id="bottom">
-				<div id="wrap2">
+				<div>
 					<nav>
 						<ul>
 							<li>
@@ -84,7 +84,7 @@
 		<main>
 			<section id="top">
 				<div>
-					<img src="//akamai-ssl.burton.com/2015/content/homepage/slides/Homepage_S15_Shred_Sale_Desktop.jpg">
+					<img src="http://akamai-ssl.burton.com/2015/content/homepage/slides/Homepage_S15_Durable_Goods_Desktop.jpg">
 				</div>
 				<nav>
 					<ul>
