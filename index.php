@@ -213,6 +213,17 @@
 						<button type="submit">Go</button>
 					</div>
 				</section>
+				<section>
+					<div>
+retreter
+					</div>
+					<div>
+						© 2015 Burton Snowboards / Terms & Conditions / Contact Us / Site Map
+					</div>
+					<div>
+						tertwerte
+					</div>
+				</section>
 			</div>
 		</footer>
 	</body>

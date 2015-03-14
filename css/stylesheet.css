@@ -429,6 +429,8 @@ footer div section + section + section{
 footer div section + section + section div{
 	width: 50%;
 	float: left;
+	height: 25%;
+	padding: 20px 0 0 0;
 }
 
 footer div section + section + section div h3{
@@ -466,7 +468,36 @@ footer div section + section + section div button{
 	background-color: #efefef;
 }
 
-footer div section + section + section div + div{
-	width: 50%;
-	float: left;
+footer div section + section + section + section{
+	width: 100%;
+	clear: both;
+	margin-top: 10px;
+	padding-top: 15px;
+	border-top: 1px solid #f4f1e9;
+}
+
+/*footer div section + section + section + section div{
+	height: 35px;
+	display: inline-block;
+	font-size: 0;
+	background-image: url('//akamai-ssl.burton.com/2015/images/global/svg/global-header-footer-sprite-ss15.svg');
+	background-repeat: no-repeat;
+	background-position: 20px 20px;
+	margin-right: 23px;
+}
+*/
+
+footer div section + section + section + section div{
+	width: 31%;
+	text-align: center;
+}
+
+footer div section + section + section + section div + div{
+	color: #ffffff;
+	font-size: 11px;
+	width: 35%;
+}
+
+footer div section + section + section + section div + div + div{
+	width: 31%;
 }
